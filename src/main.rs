@@ -1,3 +1,3 @@
 fn main() {
-    numbers::show();
+    numbers::show(8);
 }
